@@ -1,0 +1,1319 @@
+cscope 15 $HOME/Dropbox/monk/tago -q 0000000085 0000006602
+	@app.py
+
+1 
+imp‹t
+ 
+eyeD3
+
+
+2 
+imp‹t
+ 
+utûs
+
+
+3 
+imp‹t
+ 
+sys
+
+
+4 
+imp‹t
+ 
+os
+
+
+6 
+def
+ 
+	$ígöe
+(
+swôches
+):
+
+8 
+swôches
+.
+	`has_key
+('-i'):
+
+9 #sögÀ 
+fûe
+ 
+mode
+
+
+10 
+fûe_«me
+ = 
+swôches
+['-i']
+
+11 
+os
+.
+∑th
+.
+	$exi°s
+(
+fûe_«me
+):
+
+12 
+swôches
+.
+	`has_key
+('-d'):
+
+13 
+utûs
+.
+	`check_¥om±_™d_dñëe
+(
+swôches
+['-i'], swôches.
+	`has_key
+('-y'))
+
+14 
+swôches
+.
+	`has_key
+('-u'):
+
+15 
+swôches
+.
+	`has_key
+('-a'):
+
+16 
+åy
+:
+
+17 
+off£t
+ = 
+dú
+.
+	`rödex
+('/')
+
+18 
+Æbum
+ = 
+dú
+[
+off£t
++1:]
+
+19 
+ex˚±
+ 
+VÆueEº‹
+ 
+as
+ 
+îr
+:
+
+20 
+Æbum
+ = 
+N⁄e
+
+
+21 
+dú
+ = dú[:dú.
+	`rföd
+('/')]
+
+22 
+åy
+:
+
+23 
+off£t
+ = 
+dú
+.
+	`rödex
+('/')
+
+24 
+¨ti°
+ = 
+dú
+[
+off£t
++1:]
+
+25 
+ex˚±
+ 
+VÆueEº‹
+ 
+as
+ 
+îr
+:
+
+26 
+¨ti°
+ = 
+N⁄e
+
+
+28 
+¨ti°
+ = 
+N⁄e
+
+
+29 
+Æbum
+ = 
+N⁄e
+
+
+30 
+utûs
+.
+	`check_¥om±_™d_upd©e
+(
+swôches
+['-i'], 
+¨ti°
+, 
+Æbum
+)
+
+32 
+utûs
+.
+	`exô_⁄_îr
+("fûíamêERROR : "+
+fûe_«me
+)
+
+35 #b©ch 
+mode
+
+
+36 
+swôches
+.
+	`has_key
+('-m'):
+
+37 
+swôches
+['-m'] == '1':
+
+38 
+¥öt
+ "mode 1 selected"
+
+39 
+i
+ 
+ö
+ 
+os
+.
+	`li°dú
+('.'):
+
+40 
+os
+.
+∑th
+.
+	$isdú
+(
+i
+):
+
+41 
+¨ti°
+ = 
+i
+
+
+42 
+os
+.
+	$chdú
+(
+i
+)
+
+43 
+j
+ 
+ö
+ 
+os
+.
+	`li°dú
+('.'):
+
+44 
+os
+.
+∑th
+.
+	$isdú
+(
+j
+):
+
+45 
+Æbum
+ = 
+j
+
+
+46 
+os
+.
+	$chdú
+(
+j
+)
+
+47 
+k
+ 
+ö
+ 
+os
+.
+	`li°dú
+('.'):
+
+48 
+swôches
+.
+	`has_key
+('-d'):
+
+49 
+utûs
+.
+	`check_¥om±_™d_dñëe
+(
+k
+, 
+swôches
+.
+	`has_key
+('-y'))
+
+50 
+swôches
+.
+	`has_key
+('-u'):
+
+51 
+utûs
+.
+	`check_¥om±_™d_upd©e
+(
+swôches
+['-i'], swôches.
+	`has_key
+('-y'), 
+¨ti°
+, 
+Æbum
+)
+
+52 
+os
+.
+	`chdú
+('..')
+
+53 
+os
+.
+	`chdú
+('..')
+
+54 
+ñif
+ 
+swôches
+['-m'] == '2':
+
+55 
+¥öt
+ "mode 2 selected"
+
+56 
+swôches
+.
+	`has_key
+('-a'):
+
+57 
+dú
+ = 
+os
+.
+	$gëcwd
+()
+
+58 
+off£t
+ = 
+dú
+.
+	`rödex
+('/')
+
+59 
+¨ti°
+ = 
+dú
+[
+off£t
++1:]
+
+61 
+¨ti°
+ = 
+N⁄e
+
+
+62 
+i
+ 
+ö
+ 
+os
+.
+	`li°dú
+('.'):
+
+63 
+os
+.
+∑th
+.
+	$isdú
+(
+i
+):
+
+64 
+Æbum
+ = 
+i
+
+
+65 
+os
+.
+	$chdú
+(
+i
+)
+
+66 
+j
+ 
+ö
+ 
+os
+.
+	`li°dú
+('.'):
+
+67 
+swôches
+.
+	`has_key
+('-d'):
+
+68 
+utûs
+.
+	`check_¥om±_™d_dñëe
+(
+j
+, 
+swôches
+.
+	`has_key
+('-y'))
+
+69 
+swôches
+.
+	`has_key
+('-u'):
+
+70 
+utûs
+.
+	`check_¥om±_™d_upd©e
+(
+swôches
+['-i'], swôches.
+	`has_key
+('-y'), 
+¨ti°
+, 
+Æbum
+)
+
+71 
+os
+.
+	`chdú
+('..')
+
+72 
+ñif
+ 
+swôches
+['-m'] == '3':
+
+73 
+¥öt
+ "mode 3 selected"
+
+74 
+swôches
+.
+	`has_key
+('-a'):
+
+75 
+dú
+ = 
+os
+.
+	$gëcwd
+()
+
+76 
+off£t
+ = 
+dú
+.
+	`rödex
+('/')
+
+77 
+Æbum
+ = 
+dú
+[
+off£t
++1:]
+
+78 
+dú
+ = dú[:
+off£t
+]
+
+79 
+¨ti°
+ = 
+dú
+[dú.
+	`rföd
+('/')+1:]
+
+81 
+¨ti°
+ = 
+N⁄e
+
+
+82 
+Æbum
+ = 
+N⁄e
+
+
+83 
+i
+ 
+ö
+ 
+os
+.
+	`li°dú
+('.'):
+
+84 
+swôches
+.
+	`has_key
+('-d'):
+
+85 
+utûs
+.
+	`check_¥om±_™d_dñëe
+(
+i
+, 
+swôches
+.
+	`has_key
+('-y'))
+
+86 
+swôches
+.
+	`has_key
+('-u'):
+
+87 
+utûs
+.
+	`check_¥om±_™d_upd©e
+(
+swôches
+['-i'], swôches.
+	`has_key
+('-y'), 
+¨ti°
+, 
+Æbum
+)
+
+89 
+	`exô_⁄_îr
+('incorrect mode!')
+
+91 
+def
+ 
+	$dñëe_ègs
+(
+fûe_«me
+):
+
+93 
+cmd
+ = 'eyeD3 --ªmove-Æ»"%s"' % (
+fûe_«me
+)
+
+94 
+os
+.
+	$sy°em
+(
+cmd
+)
+
+96 
+def
+ 
+	$upd©e_ègs
+(
+fûe_«me
+, 
+¨ti°
+, 
+Æbum
+, 
+tôÀ
+):
+
+97 
+cmd
+ = 'eyeD3 --v2 '
+
+98 
+¨ti°
+:
+
+99 
+cmd
+ +'-®"%s" ' %(
+¨ti°
+)
+
+100 
+Æbum
+:
+
+101 
+cmd
+ +'-A "%s" ' %(
+Æbum
+)
+
+102 
+tôÀ
+:
+
+103 
+cmd
+ +'-à"%s" ' %(
+tôÀ
+)
+
+104 
+cmd
+ +'"%s"' %(
+fûe_«me
+)
+
+105 
+os
+.
+	`sy°em
+(
+cmd
+)
+
+	@tago.py
+
+1 #!/
+u§
+/
+bö
+/
+pyth⁄
+
+
+3 
+imp‹t
+ 
+utûs
+
+
+4 
+imp‹t
+ 
+≠p
+
+
+6 
+	g__«me__
+ == "__main__":
+
+7 #check 
+›ti⁄s
+ 
+¨e
+ 
+giví
+ 
+right
+ 
+™d
+  
+the
+ 
+swôches
+ 
+ö
+ 
+a
+ 
+di˘
+
+
+8 
+swôches
+ = 
+utûs
+.
+	$check_›ti⁄s
+()
+
+9 #di•œy 
+the
+ 
+vîsi⁄
+ 
+™d
+ 
+exô
+, 
+is
+ 
+giví
+
+
+10 
+utûs
+.
+	$check_vîsi⁄
+(
+swôches
+)
+
+11 #di•œy 
+the
+ 
+hñp
+ 
+™d
+ 
+exô
+, 
+is
+ 
+giví
+
+
+12 
+utûs
+.
+	$check_hñp
+(
+swôches
+)
+
+13 #m™ùuœã 
+the
+ 
+swôches
+
+
+14 
+≠p
+.
+	`ígöe
+(
+swôches
+)
+
+	@utils.py
+
+1 
+imp‹t
+ 
+≠p
+
+
+2 
+imp‹t
+ 
+gë›t
+
+
+3 
+imp‹t
+ 
+sys
+
+
+5 
+def
+ 
+	$check_›ti⁄s
+():
+
+7 
+åy
+:
+
+8 
+›ts
+, 
+¨gs
+ = 
+gë›t
+.
+	`gë›t
+(
+sys
+.
+¨gv
+[1:], "vhm:aduyi:")
+
+9 
+ex˚±
+ 
+gë›t
+.
+Gë›tEº‹
+, 
+îr
+:
+
+10 
+¥öt
+ 
+	$°r
+(
+îr
+)
+
+11 
+	$ußge
+()
+
+12 
+sys
+.
+	$exô
+(1)
+
+13 
+nŸ
+ 
+›ts
+:
+
+14 
+	$ußge
+()
+
+15 
+sys
+.
+	$exô
+(1)
+
+16  
+	$di˘
+(
+›ts
+)
+
+18 
+def
+ 
+	$check_vîsi⁄
+(
+swôches
+):
+
+20 
+swôches
+.
+	`has_key
+('-v'):
+
+21 
+	$vîsi⁄
+()
+
+22 
+sys
+.
+	$exô
+(0)
+
+24 
+def
+ 
+	$check_hñp
+(
+swôches
+):
+
+26 
+swôches
+.
+	`has_key
+('-h'):
+
+27 
+	$ußge
+()
+
+28 
+sys
+.
+	$exô
+(0)
+
+30 
+def
+ 
+	$ußge
+():
+
+32 
+¥öt
+ "\nußgêi†"+
+sys
+.
+¨gv
+[0]+" [options]"
+
+33 
+¥öt
+ "optionsáre"
+
+34 
+¥öt
+ " -v - version"
+
+35 
+¥öt
+ " -h - help"
+
+36 
+¥öt
+ " -i <mp3> - specifyán mp3 file"
+
+37 
+¥öt
+ " -m <mode> - mode"
+
+38 
+¥öt
+ "Åheávailable modesáre"
+
+39 
+¥öt
+ " 1 - youáre intendingÅo work onÅheÅags onáll files"
+
+40 
+¥öt
+ " underÅhe current directoryándÅhe filesáre"
+
+41 
+¥öt
+ " organisedás ./artist/album/files.mp3"
+
+42 
+¥öt
+ " 2 - work onÅags for files underÅhe current directory"
+
+43 
+¥öt
+ " organisedás ./album/files.mp3"
+
+44 
+¥öt
+ " 3 - work onÅags for files underÅhe current directory"
+
+45 
+¥öt
+ " organisedás ./files.mp3"
+
+46 
+¥öt
+ " ifán mp3 file is specifiedásánárgument,ÅhenÅhe modes"
+
+47 
+¥öt
+ " don't matterándÅago will work onÅheÅags only onÅhe file"
+
+48 
+¥öt
+ " -a -Åhis is valid forÅhe second mode, whenÖresent,"
+
+49 
+¥öt
+ " . =ártist folder"
+
+50 
+¥öt
+ " canálso be used withÅhe -i option forá file"
+
+51 
+¥öt
+ " in which case, .. ==ártist folder"
+
+52 
+¥öt
+ "ánd . =álbum folder"
+
+53 
+¥öt
+ " ifÇot given,Åago'llÖrompt you forÅhe fields"
+
+54 
+¥öt
+ " -d - deleteÅags forÅhe specified file oráll files"
+
+55 
+¥öt
+ "ás specified byÅhe mode"
+
+56 
+¥öt
+ " -u - setÅheÅag"
+
+57 
+¥öt
+ " -y - force yes"
+
+59 
+def
+ 
+	$vîsi⁄
+():
+
+61 
+¥öt
+ "tago v0.0.1\nAuthor : Srinath Krishna"
+
+63 
+def
+ 
+	$¥om±
+(
+should_¥om±
+):
+
+65 
+should_¥om±
+:
+
+66  
+True
+
+
+68 
+¥öt
+ "Do youÜikeÅo continue (y/n)? : ",
+
+69 
+yn
+ = 
+	`øw_öput
+();
+
+70 
+yn
+[0] ='Y' 
+‹
+ yn[0] == 'y':
+
+71  
+True
+
+
+72  
+FÆ£
+
+
+74 
+def
+ 
+	$check_mp3_fûe
+(
+fûe_«me
+):
+
+76 
+åy
+:
+
+77 
+fûe_«me
+ = fûe_«me.
+	`l°rù
+().
+	$r°rù
+()
+
+78 
+dŸ_pos
+ = 
+fûe_«me
+.
+	`rödex
+('.')
+
+79 
+fûe_«me
+[
+dŸ_pos
++1:] ='mp3' 
+‹
+ file_name[dot_pos+1:] == 'MP3':
+
+80 
+tôÀ
+ = 
+os
+.
+∑th
+.
+	$ba£«me
+(
+fûe_«me
+)
+
+81 
+dŸ_pos
+ = 
+tôÀ
+.
+	`rödex
+('.')
+
+82 
+tôÀ
+ =ÅôÀ[:
+dŸ_pos
+]
+
+83  [
+True
+, 
+tôÀ
+]
+
+85  [
+FÆ£
+, 
+N⁄e
+]
+
+86 
+ex˚±
+ 
+VÆueEº‹
+ 
+as
+ 
+îr
+:
+
+87 
+¥öt
+ "öc‹ª˘ modêwôh fûíamê: "+
+fûe_«me
+
+
+88  [
+FÆ£
+, 
+N⁄e
+]
+
+90 
+def
+ 
+	$check_¥om±_™d_dñëe
+(
+fûe_«me
+, 
+should_¥om±
+):
+
+92 
+	$check_mp3_fûe
+(
+fûe_«me
+):
+
+93 
+	$¥om±
+(
+should_¥om±
+):
+
+94 
+≠p
+.
+	$dñëe_ègs
+(
+fûe_«me
+)
+
+96 
+¥öt
+ "fûíamêERROR : "+
+fûe_«me
+
+
+98 
+def
+ 
+	$check_¥om±_™d_upd©e
+(
+fûe_«me
+, 
+should_¥om±
+, 
+¨ti°
+, 
+Æbum
+):
+
+100 [
+cmd
+, 
+tôÀ
+] = 
+	$check_mp3_fûe
+(
+fûe_«me
+)
+
+101 
+cmd
+:
+
+102 
+	$¥om±
+(
+should_¥om±
+):
+
+103 
+≠p
+.
+	$upd©e_ègs
+(
+fûe_«me
+, 
+¨ti°
+, 
+Æbum
+, 
+tôÀ
+)
+
+105 
+¥öt
+ "fûíamêERROR : "+
+fûe_«me
+
+
+107 
+def
+ 
+	$exô_⁄_îr
+(
+îr_msg
+)
+
+108 
+¥öt
+ 
+îr_msg
+
+
+109 
+sys
+.
+	`exô
+(1)
+
+	@
+1
+.
+1
+/usr/include
+3
+24
+app.py
+tago.py
+utils.py

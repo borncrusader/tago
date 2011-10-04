@@ -1,0 +1,12 @@
+TAGO - PYTHON SCRIPT FOR SETTING ID3 TAGS ON MP3 FILES
+
+organisation of files
+
+tago.py
+  - main application file
+
+app.py
+  - file that has the main engine loop and the functions working on the tag
+
+utils.py
+  - file that has the helper functions
